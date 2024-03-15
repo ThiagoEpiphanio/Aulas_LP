@@ -9,8 +9,8 @@
     
     <h1>Aula 1403</h1>
 
-    <a href="combustivel.php"> Primeiro exemplo</a><br>
-    <a href=""> Segundo exemplo</a><br>
+    <a href="combustivel.php"> Primeiro exemplo utilizando "Radio"</a><br>
+    <a href="combustivelWSelect.php"> Segundo exemplo utilizando "Select"</a><br>
     <a href=""> Terceiro exemplo</a><br>
 
 </body>
