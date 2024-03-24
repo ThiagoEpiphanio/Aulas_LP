@@ -27,6 +27,7 @@
 
 </body>
 
+<br>
 <a href="../index.php">Voltar ao menu principal</a>
 
 </html>
