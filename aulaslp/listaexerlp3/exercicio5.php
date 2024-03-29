@@ -3,15 +3,15 @@
 <head>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<title>Lista 3 - Exercício 3</title>
+	<title>Lista 3 - Exercício 5</title>
 </head>
 <body>
 
-	<h2>Número correspondente ao seu valor</h2>
-	<h3>- Digite um número de 1 a 10</h3>
-	<h3>- Esse número será impresso na tela o mesmo número de vezes que o valor digitado</h3>
+	<h2>"Radiobuttons" conforme solitação do usuário</h2>
+	<h3>- Digite a quantidade de "radiobuttons" que deseja ver na tela</h3>
+	<h3>- Serão mostrados na tela, os "radiobuttons" com as respectivas quantidades ao lado</h3>
 
-	<form action="ex3.php"  method="post">
+	<form action="ex5.php"  method="post">
 
 		<input type="number" name="numero"  id="numero"><br>
 		<label>Digite aqui o número</label><br><br>

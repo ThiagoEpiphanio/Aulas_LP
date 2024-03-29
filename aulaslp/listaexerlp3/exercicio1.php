@@ -19,12 +19,12 @@
         echo "Número sorteado: $numero <br>";
     } while ($numero != 37);
 
-    echo "<br>Foram necessárias $tentativas tentativas para sortear o número 37.";
+    echo "<br>Foram realizadas $tentativas tentativas para sortear o número 37.";
 
     ?>
     <br><br><br>
     <a href="exercicio1.php">Gerar novo loop</a><br><br>
-    <a href="listaexerc3.php">Voltar ao menu anterior</a><br><br>
+    <a href="listaexerc3.php">Voltar à lista de exercícios 3</a><br><br>
     <a href="../index.php">Voltar ao menu principal</a><br><br>
 </body>
 </html>

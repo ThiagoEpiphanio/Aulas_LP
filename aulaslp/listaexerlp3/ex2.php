@@ -19,4 +19,5 @@
 
 <br><br><br>
 <a href="exercicio2.php">Imprimir novo número</a><br><br>
+<a href="listaexerc3.php">Voltar à lista de exercícios 3</a><br><br>
 <a href="../index.php">Voltar ao menu principal</a><br><br>

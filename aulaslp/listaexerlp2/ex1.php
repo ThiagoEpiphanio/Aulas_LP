@@ -44,4 +44,5 @@ while (true){
 
 <br><br><br>
 <a href="exercicio1.php">Efetuar novo cálculo</a><br><br>
+<a href="listaexerc2.php">Voltar à lista de exercícios 2</a><br><br>
 <a href="../index.php">Voltar ao menu principal</a><br><br>

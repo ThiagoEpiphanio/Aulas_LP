@@ -28,4 +28,5 @@ $colunas = $_POST["col"];
 
 <br><br>
 <a href="exercicio4.php">Gerar nova tabela</a><br><br>
+<a href="listaexerc4.php">Voltar à lista de exercícios 2</a><br><br>
 <a href="../index.php">Voltar ao menu principal</a><br><br>
